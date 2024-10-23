@@ -1,0 +1,49 @@
+ body {
+   background-image: url(https://cdn.pixabay.com/photo/2017/03/27/14/31/stars-2179083_640.jpg);
+
+ }
+
+.sintel {
+    text-align: center;
+    background-image:url(drill2.gif) ;
+    background-repeat:no-repeat;
+    background-position:center;
+    color:transparent;
+    background-clip: 
+
+    }
+       
+.mp4 {
+  max-width: 1500px;
+   max-height: 1500px;
+
+}
+.sub-mp4 {
+    width: 100%;
+}
+.estilo1 {
+    max-width: px;
+    max-height: 300px;
+}
+
+.sub-estilo {
+    width: 100%;
+}
+.sintel {
+    color: rgb(0, 0, 0);
+    font-size: 400%;
+
+}
+
+.end1 {
+    font-size: 150%;
+    color: rgb(35, 84, 124);
+}
+
+.end2 {
+    color: rgb(13, 123, 131);
+}
+
+.seption {
+     
+}

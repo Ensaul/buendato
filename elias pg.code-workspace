@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../musica"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "elias pg"
+	}
+}
